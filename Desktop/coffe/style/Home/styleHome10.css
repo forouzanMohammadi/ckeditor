@@ -1,0 +1,149 @@
+.pix-variation-swatches .woo-variation-select,
+.pix-variation-swatches .woo-variation-select + .select2 {
+  display: none !important;
+}
+.pix-variation-swatches .variation-items-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0.75ch 0 0;
+  padding: 0;
+  list-style: none;
+}
+.pix-variation-swatches .variation-items-wrapper > li {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  height: 20px;
+  width: 20px;
+  padding: 0;
+  margin: 0 0.75ch 0.75ch 0;
+  transition: all 0.2s ease-in-out;
+  box-sizing: border-box;
+  user-select: none;
+  list-style: none;
+  cursor: pointer;
+  outline: none;
+}
+.pix-variation-swatches
+  .variation-items-wrapper:not(.button-variation-wrapper)
+  > li,
+.pix-variation-swatches
+  .variation-items-wrapper:not(.button-variation-wrapper)
+  > li
+  > img,
+.pix-variation-swatches
+  .variation-items-wrapper:not(.button-variation-wrapper)
+  > li
+  > span {
+  border-radius: 50%;
+}
+.pix-variation-swatches
+  .variation-items-wrapper:not(.button-variation-wrapper)
+  > li
+  > img,
+.pix-variation-swatches
+  .variation-items-wrapper:not(.button-variation-wrapper)
+  > li
+  > span {
+  overflow: hidden;
+}
+.pix-variation-swatches .variation-items-wrapper.button-variation-wrapper > li {
+  display: flex;
+  width: auto;
+  align-items: center;
+  justify-content: center;
+  color: #828699;
+}
+.pix-variation-swatches
+  .variation-items-wrapper.button-variation-wrapper
+  > li
+  > span {
+  text-decoration: underline;
+}
+.pix-variation-swatches
+  .variation-items-wrapper.button-variation-wrapper
+  > li:not(:last-child):after {
+  display: inline;
+  content: ', ';
+}
+.pix-variation-swatches
+  .variation-items-wrapper.button-variation-wrapper
+  > li:hover
+  > span {
+  text-decoration: none;
+}
+.pix-variation-swatches
+  .variation-items-wrapper.button-variation-wrapper
+  > li:hover
+  > span,
+.pix-variation-swatches
+  .variation-items-wrapper.button-variation-wrapper
+  > li.selected
+  > span {
+  color: #000;
+}
+.pix-variation-swatches .variation-items-wrapper > li > img,
+.pix-variation-swatches .variation-items-wrapper > li > span {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}
+.pix-variation-swatches .variation-items-wrapper > li:last-of-type {
+  margin-right: 0;
+}
+.pix-variation-swatches
+  .variation-items-wrapper:not(.button-variation-wrapper)
+  > li:hover,
+.pix-variation-swatches
+  .variation-items-wrapper:not(.button-variation-wrapper)
+  > li.selected
+  > img,
+.pix-variation-swatches
+  .variation-items-wrapper:not(.button-variation-wrapper)
+  > li.selected
+  > span {
+  box-shadow: 0 0 3px 1px rgba(0, 0, 0, 0.1) inset;
+}
+.pix-variation-swatches
+  .variation-items-wrapper:not(.button-variation-wrapper)
+  > li.selected,
+.pix-variation-swatches
+  .variation-items-wrapper:not(.button-variation-wrapper)
+  > li.selected:hover {
+  box-shadow: 0 0 0 3px #fff, 0 0 0 4px #dadef2, 0 0 10px 0 rgba(0, 0, 0, 0.25);
+}
+.pix-variation-swatches li.disabled,
+.pix-variation-swatches li.disabled:hover {
+  position: relative;
+  box-shadow: none;
+  outline: none;
+  pointer-events: none;
+  overflow: hidden;
+}
+.pix-variation-swatches li.disabled img,
+.pix-variation-swatches li.disabled span,
+.pix-variation-swatches li.disabled:hover img,
+.pix-variation-swatches li.disabled:hover span {
+  opacity: 0.25;
+}
+.pix-variation-swatches.rtl table.variations td.label {
+  padding-left: 1em;
+  padding-right: 0;
+  text-align: left;
+}
+.pix-variation-swatches.rtl .variation-items-wrapper > li {
+  text-align: right;
+}
+.pix-variation-swatches.rtl .variation-items-wrapper > li {
+  margin: 0 0 0.75ch 0.75ch;
+}
+.pix-variation-swatches.woocommerce
+  .product.elementor
+  table.variations
+  td.value:before {
+  display: none !important;
+}

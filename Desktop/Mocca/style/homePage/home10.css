@@ -1,0 +1,53 @@
+:root {
+  --accent: #dbad6a;
+  --accent-svg: %23dbad6a;
+  --accent-rgb: 219, 173, 106;
+  --compliment: #c79d5f;
+  --pix-item-bg-color: #141414;
+  --pix-item-bg-color-rgb: 20, 20, 20;
+  --pix-section-bg-color: #141414;
+  --pix-section-bg-color-rgb: 20, 20, 20;
+  --pix-bg-color: #1b1b1b;
+  --pix-highlight-bg-color: #323232;
+  --pix-bg-accent: #dbad6a50;
+  --pix-text-color: #7f7d7d;
+  --pix-text-color-bright: #ffffff;
+  --pix-text-color-bright-rgb: 255, 255, 255;
+  --pix-border-color: #444444;
+  --pix-button-bg-color: #000000;
+  --pix-button-bg-color-hover: #000000;
+  --pix-button-color: #ffffff;
+  --pix-button-border-color: #000000;
+  --pix-svg-prefix: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='5' height='7' viewBox='0 0 6 10' fill='none'%3E%3Cpath d='M0 10V0L6 5L0 10Z' fill='%23dbad6a'/%3E%3C/svg%3E%0A");
+  --pix-header-bg-color: 0, 0, 0;
+  --pix-header-opacity: 1;
+  --pix-submenu-bg-color: ;
+  --pix-header-hover-color: ;
+  --pix-submenu-color: #212529;
+  --pix-header-button-bg-color: 33, 33, 33;
+  --pix-header-button-bg-color-hover: 0, 0, 0;
+  --pix-header-button-opacity: 0.87;
+  --pix-header-button-color: #ffffff;
+  --pix-header-button-border-color: #212121;
+  --pix-header-sticky-bg-color: #ffffff;
+  --pix-header-sticky-color: #212529;
+  --pix-sticky-submenu-bg-color: #ffffff;
+  --pix-sticky-submenu-color: #212529;
+}
+.pix-menu {
+  padding: 50px 0;
+}
+.header__page {
+  padding-top: 194px;
+  padding-bottom: 131px;
+}
+.pix-page-wide {
+  padding-top: 100px;
+}
+.single-product .header__page {
+  padding-top: 160px;
+  padding-bottom: 100px;
+}
+.single-product .pix-page-wide {
+  padding-top: 100px;
+}

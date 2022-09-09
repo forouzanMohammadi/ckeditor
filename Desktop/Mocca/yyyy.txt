@@ -1,0 +1,1266 @@
+      <header class="header text-inverse sticky">
+        <div class="menu pix-menu">
+          <div class="container">
+            <div class="menu__inner">
+              <a
+                class="logo mt-n10 mt-sm-n20"
+                href="https://mocca.true-emotions.studio/"
+                title="Mocca"
+                style="width: 160px;"
+              >
+                <img src="../assets/icons/home/logo1.svg" alt="Mocca" />
+              </a>
+              <nav>
+                <ul class="menu__catalog pix-catalog-100">
+                  <li class="menu__btn">
+                    <a href="#">
+                      <span class="material-symbols-outlined">
+                        menu
+                      </span>
+                      &nbspکاتالوگ
+                    </a>
+                    <ul>
+                      <li class="menu__catalogItemN1">
+                        <a
+                          href="https://mocca.true-emotions.studio/product-category/coffee/"
+                        >
+                          <i>
+                            <img
+                              src="../assets/icons/home/coffeebeans.svg"
+                              alt="Coffee"
+                            />
+                          </i>
+                          <span>قهوه</span>
+                          <span class="material-symbols-outlined">
+                            chevron_left
+                          </span>
+                        </a>
+                      </li>
+                      <li class="menu__catalogItemN2">
+                        <div class="row">
+                          <div class="menu__catalogItemN2Menu">
+                            <div class="menu__catalogItemN2MenuInner">
+                              <div class="menu__catalogSubmenu">
+                                <a
+                                  class="menu__catalogSubmenuTitle"
+                                  href="https://mocca.true-emotions.studio/product-category/coffee/gift-coffee/"
+                                >
+                                  <i>
+                                    <img
+                                      src="../assets/icons/home/coffees.svg"
+                                      alt="Gift Coffee"
+                                    />
+                                  </i>
+                                  <span>&nbsp کافی گیفت</span>
+                                </a>
+                                <ul>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/coffee/gift-coffee/gift-coffee-ecobar/"
+                                    >
+                                      کافی گیفت “ اکوبار”
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/coffee/gift-coffee/gift-coffee-bistro-bar/"
+                                    >
+                                      کافی گیفت &quot;بیستو بار&quot;
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/coffee/gift-coffee/gift-coffee-organic/"
+                                    >
+                                      کافی گیفت &quot;ارگانیک&quot;
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/coffee/gift-coffee/gift-coffee-barista/"
+                                    >
+                                      کافی گیفت “باریستا”
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/coffee/gift-coffee/gift-coffee-violet/"
+                                    >
+                                      کافی گیفت “ویولت”
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+                              <div class="menu__catalogSubmenu">
+                                <a
+                                  class="menu__catalogSubmenuTitle"
+                                  href="https://mocca.true-emotions.studio/product-category/coffee/ground-coffee/"
+                                >
+                                  <i>
+                                    <img
+                                      src="../assets/icons/home/coffee-beans3.svg"
+                                      alt="Ground coffee"
+                                    />
+                                  </i>
+                                  <span>قهوه آسیاب شده</span>
+                                  <i></i>
+                                </a>
+                              </div>
+                              <div class="menu__catalogSubmenu">
+                                <a
+                                  class="menu__catalogSubmenuTitle"
+                                  href="https://mocca.true-emotions.studio/product-category/coffee/capsules/"
+                                >
+                                  <i>
+                                    <img
+                                      src="../assets/icons/home/coffee-capsule.svg"
+                                      alt="Capsules"
+                                    />
+                                  </i>
+                                  <span>&nbsp کپسول‌ها</span>
+                                </a>
+                                <ul>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/coffee/capsules/decaffeinated-coffee/"
+                                    >
+                                    قهوه بدون کافئین
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/coffee/capsules/espresso/"
+                                    >
+                                    اسپرسو
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/coffee/capsules/hot-chocolate/"
+                                    >
+                                      هات چاکلت
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/coffee/capsules/lungo/"
+                                    >
+                                    لونگو
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/coffee/capsules/tea-capsules/"
+                                    >
+                                      چای
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+                              <div class="menu__catalogSubmenu">
+                                <a
+                                  class="menu__catalogSubmenuTitle"
+                                  href="https://mocca.true-emotions.studio/product-category/coffee/instant-coffee/"
+                                >
+                                  <i>
+                                    <img
+                                      src="../assets/icons/home/tea-bag3.svg"
+                                      alt="Instant Coffee"
+                                    />
+                                  </i>
+                                  <span>&nbsp قهوه فوری</span>
+                                  <i></i>
+                                </a>
+                              </div>
+                              <div class="menu__catalogSubmenu">
+                                <a
+                                  class="menu__catalogSubmenuTitle"
+                                  href="https://mocca.true-emotions.studio/product-category/coffee/pods-coffee/"
+                                >
+                                  <i>
+                                    <img
+                                      src="../assets/icons/home/leaves.svg"
+                                      alt="Pods Coffee"
+                                    />
+                                  </i>
+                                  <span>&nbsp غلاف قهوه</span>
+                                  <i></i>
+                                </a>
+                              </div>
+                              <div class="menu__catalogSubmenu">
+                                <a
+                                  class="menu__catalogSubmenuTitle"
+                                  href="https://mocca.true-emotions.studio/product-category/coffee/whole-bean-coffee/"
+                                >
+                                  <i>
+                                    <img
+                                      src="../assets/icons/home/coffeebeans.svg"
+                                      alt="Whole Bean Coffee"
+                                    />
+                                  </i>
+                                  <span>&nbsp دانه قهوه</span>
+                                  <i></i>
+                                </a>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="menu__catalogItemN2Banner">
+                            <div class="menu__catalogItemN2BannerImg">
+                              <img
+                                src="../assets/images/home/b4.jpg"
+                                alt="Catalog banner"
+                              />
+                            </div>
+                            <div class="menu__catalogItemN2BannerInfo">
+                              دانه قهوه
+                            </div>
+                            <a
+                              class="menu__catalogItemN2BannerLink"
+                              href="https://mocca.true-emotions.studio/product-category/coffee/"
+                            ></a>
+                          </div>
+                        </div>
+                      </li>
+                      <li class="menu__catalogItemN1">
+                        <a
+                          href="https://mocca.true-emotions.studio/product-category/coffee-machines/"
+                        >
+                          <i>
+                            <img
+                              src="../assets/icons/home/coffee-machine3.svg"
+                              alt="Machines"
+                            />
+                          </i>
+                          <span>دستگاه‌های قهوه</span>
+                          <span class="material-symbols-outlined">
+                            chevron_left
+                          </span>
+                        </a>
+                      </li>
+                      <li class="menu__catalogItemN2">
+                        <div class="row">
+                          <div class="menu__catalogItemN2Menu">
+                            <div class="menu__catalogItemN2MenuInner">
+                              <div class="menu__catalogSubmenu">
+                                <a
+                                  class="menu__catalogSubmenuTitle"
+                                  href="https://mocca.true-emotions.studio/product-category/coffee-machines/by-the-type-of-machine/"
+                                >
+                                  <i>
+                                    <img
+                                      src="../assets/icons/home/coffee-machine3.svg"
+                                      alt="The Type"
+                                    />
+                                  </i>
+                                  <span>&nbsp نوع دستگاه</span>
+                                </a>
+                                <ul>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/coffee-machines/by-the-type-of-machine/fully-automatic/"
+                                    >
+                                      تمام اتوماتیک
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/coffee-machines/by-the-type-of-machine/manual-espresso/"
+                                    >
+                                    اسپرسو دستی
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/coffee-machines/by-the-type-of-machine/nespresso/"
+                                    >
+                                    نسپرسو
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/coffee-machines/by-the-type-of-machine/drip/"
+                                    >
+                                    دستگاه های قطره ای
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/coffee-machines/by-the-type-of-machine/pot-coffee-makers/"
+                                    >
+                                    قهوه جوش
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+                              <div class="menu__catalogSubmenu">
+                                <a
+                                  class="menu__catalogSubmenuTitle"
+                                  href="https://mocca.true-emotions.studio/product-category/coffee-machines/accessories/"
+                                >
+                                  <i>
+                                    <img
+                                      src="../assets/icons/home/coffees.svg"
+                                      alt="Accessories"
+                                    />
+                                  </i>
+                                  <span>&nbsp تجهیزات جانبی</span>
+                                  <i></i>
+                                </a>
+                              </div>
+                              <div class="menu__catalogSubmenu">
+                                <a
+                                  class="menu__catalogSubmenuTitle"
+                                  href="https://mocca.true-emotions.studio/product-category/coffee-machines/by-installation/"
+                                >
+                                  <i>
+                                    <img
+                                      src="../assets/icons/home/coffee-machine.svg"
+                                      alt="Installation"
+                                    />
+                                  </i>
+                                  <span>&nbsp نصب و راه اندازی</span>
+                                </a>
+                                <ul>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/coffee-machines/by-installation/home/"
+                                    >
+                                      برای منزل
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/coffee-machines/by-installation/for-cafe/"
+                                    >
+                                      برای کافی‌شاپ
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/coffee-machines/by-installation/for-office/"
+                                    >
+                                      برای اداره
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+                              <div class="menu__catalogSubmenu">
+                                <a
+                                  class="menu__catalogSubmenuTitle"
+                                  href="https://mocca.true-emotions.studio/product-category/coffee-machines/by-brand/"
+                                >
+                                  <i>
+                                    <img
+                                      src="../assets/icons/home/coffeebeans.svg"
+                                      alt="Brand"
+                                    />
+                                  </i>
+                                  <span>&nbsp برند</span>
+                                  <i></i>
+                                </a>
+                              </div>
+                              <div class="menu__catalogSubmenu">
+                                <a
+                                  class="menu__catalogSubmenuTitle"
+                                  href="https://mocca.true-emotions.studio/product-category/coffee-machines/by-type-of-coffee/"
+                                >
+                                  <i>
+                                    <img
+                                      src="../assets/icons/home/coffee-machine3.svg"
+                                      alt="Type Of Coffee"
+                                    />
+                                  </i>
+                                  <span>&nbsp انواع قهوه</span>
+                                </a>
+                                <ul>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/coffee-machines/by-type-of-coffee/coffee-capsules/"
+                                    >
+                                      کپسول‌های قهوه
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/coffee-machines/by-type-of-coffee/ground-coffee-by-type-of-coffee/"
+                                    >
+                                      قهوه آسیاب شده
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/coffee-machines/by-type-of-coffee/whole-bean-coffee-by-type-of-coffee/"
+                                    >
+                                      دانه قهوه
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+                              <div class="menu__catalogSubmenu">
+                                <a
+                                  class="menu__catalogSubmenuTitle"
+                                  href="https://mocca.true-emotions.studio/product-category/coffee-machines/coffee-grinders/"
+                                >
+                                  <i>
+                                    <img
+                                      src="../assets/icons/home/coffee-maker.svg"
+                                      alt="آسیاب های قهوه"
+                                    />
+                                  </i>
+                                  <span>&nbsp آسیاب های قهوه</span>
+                                  <i></i>
+                                </a>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="menu__catalogItemN2Banner">
+                            <div class="menu__catalogItemN2BannerImg">
+                              <img
+                                src="../assets/images/home/b4.jpg"
+                                alt="بنر کاتالوگ"
+                              />
+                            </div>
+                            <div class="menu__catalogItemN2BannerInfo">
+                              دانه قهوه
+                            </div>
+                            <a
+                              class="menu__catalogItemN2BannerLink"
+                              href="https://mocca.true-emotions.studio/product-category/coffee/"
+                            ></a>
+                          </div>
+                        </div>
+                      </li>
+                      <li class="menu__catalogItemN1">
+                        <a
+                          href="https://mocca.true-emotions.studio/product-category/syrups/"
+                        >
+                          <i>
+                            <img
+                              src="../assets/icons/home/maple-syrup.svg"
+                              alt="Syrups"
+                            />
+                          </i>
+                          <span>سیروپ‌ها</span>
+                          <span class="material-symbols-outlined">
+                            chevron_left
+                          </span>
+                        </a>
+                      </li>
+                      <li class="menu__catalogItemN2">
+                        <div class="row">
+                          <div class="menu__catalogItemN2Menu">
+                            <div class="menu__catalogItemN2MenuInner">
+                              <div class="menu__catalogSubmenu">
+                                <a
+                                  class="menu__catalogSubmenuTitle"
+                                  href="https://mocca.true-emotions.studio/product-category/syrups/appointment/"
+                                >
+                                  <i>
+                                    <img
+                                      src="../assets/icons/home/coffee-beans3.svg"
+                                      alt="Appointment"
+                                    />
+                                  </i>
+                                  <span>مناسب برای</span>
+                                </a>
+                                <ul>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/syrups/appointment/for-diabetics/"
+                                    >
+                                      برای دیابت
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/syrups/appointment/for-diet/"
+                                    >
+                                      برای رژیم
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/syrups/appointment/for-cocktails/"
+                                    >
+                                      برای کوکتل
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/syrups/appointment/for-coffee/"
+                                    >
+                                      برای قهوه 
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/syrups/appointment/for-lemonade/"
+                                    >
+                                      برای لیموناد
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/syrups/appointment/for-tea/"
+                                    >
+                                      برای چای
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+                              <div class="menu__catalogSubmenu">
+                                <a
+                                  class="menu__catalogSubmenuTitle"
+                                  href="https://mocca.true-emotions.studio/product-category/syrups/manufacturer/"
+                                >
+                                  <i>
+                                    <img
+                                      src="../assets/icons/home/glass.svg"
+                                      alt="Manufacturer"
+                                    />
+                                  </i>
+                                  <span>سازنده</span>
+                                </a>
+                                <ul>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/syrups/manufacturer/australia/"
+                                    >
+                                    استرالیا
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/syrups/manufacturer/netherlands/"
+                                    >
+                                    هلند
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/syrups/manufacturer/germany/"
+                                    >
+                                    آلمان
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/syrups/manufacturer/america/"
+                                    >
+                                    آمریکا
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/syrups/manufacturer/china/"
+                                    >
+                                      چین
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/syrups/manufacturer/belgium/"
+                                    >
+                                    بلژیک
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+                              <div class="menu__catalogSubmenu">
+                                <a
+                                  class="menu__catalogSubmenuTitle"
+                                  href="https://mocca.true-emotions.studio/product-category/syrups/flavors/"
+                                >
+                                  <i>
+                                    <img
+                                      src="../assets/icons/home/iced-coffee.svg"
+                                      alt="Flavors"
+                                    />
+                                  </i>
+                                  <span>طعم</span>
+                                </a>
+                                <ul>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/syrups/flavors/dessert-flavors/"
+                                    >
+                                    دسر‌ها
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/syrups/flavors/fruit-and-berry-flavors/"
+                                    >
+                                    میوه‌ها و توت‌ها‌
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/syrups/flavors/nut-flavors/"
+                                    >
+                                      آجیل‌ها
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/syrups/flavors/spicy-flavors/"
+                                    >
+                                      اسپایسی
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="menu__catalogItemN2Banner">
+                            <div class="menu__catalogItemN2BannerImg">
+                              <img
+                                src="../assets/images/home/b4.jpg"
+                                alt="Catalog banner"
+                              />
+                            </div>
+                            <div class="menu__catalogItemN2BannerInfo">
+                              دانه قهوه
+                            </div>
+                            <a
+                              class="menu__catalogItemN2BannerLink"
+                              href="https://mocca.true-emotions.studio/product-category/coffee/"
+                            ></a>
+                          </div>
+                        </div>
+                      </li>
+                      <li class="menu__catalogItemN1">
+                        <a
+                          href="https://mocca.true-emotions.studio/product-category/vending/"
+                        >
+                          <i>
+                            <img
+                              src="../assets/icons/home/vending-machine.svg"
+                              alt="Vending"
+                            />
+                          </i>
+                          <span>فروشندگی</span>
+                          <span class="material-symbols-outlined">
+                            chevron_left
+                          </span>
+                        </a>
+                      </li>
+                      <li class="menu__catalogItemN2">
+                        <div class="row">
+                          <div class="menu__catalogItemN2Menu">
+                            <div class="menu__catalogItemN2MenuInner">
+                              <div class="menu__catalogSubmenu">
+                                <a
+                                  class="menu__catalogSubmenuTitle"
+                                  href="https://mocca.true-emotions.studio/product-category/vending/bean-coffee/"
+                                >
+                                  <i>
+                                    <img
+                                      src="../assets/icons/home/coffee-machine2.svg"
+                                      alt="Bean Coffee"
+                                    />
+                                  </i>
+                                  <span>&nbsp دانه قهوه</span>
+                                  <i></i>
+                                </a>
+                              </div>
+                              <div class="menu__catalogSubmenu">
+                                <a
+                                  class="menu__catalogSubmenuTitle"
+                                  href="https://mocca.true-emotions.studio/product-category/vending/chocolate/"
+                                >
+                                  <i>
+                                    <img
+                                      src="../assets/icons/home/tea-bag3.svg"
+                                      alt="Chocolate"
+                                    />
+                                  </i>
+                                  <span>&nbsp شکلات</span>
+                                  <i></i>
+                                </a>
+                              </div>
+                              <div class="menu__catalogSubmenu">
+                                <a
+                                  class="menu__catalogSubmenuTitle"
+                                  href="https://mocca.true-emotions.studio/product-category/vending/coffee-machines-vending/"
+                                >
+                                  <i>
+                                    <img
+                                      src="../assets/icons/home/vending-machine5.svg"
+                                      alt="Coffee Machines"
+                                    />
+                                  </i>
+                                  <span>&nbsp دستگاه‌های قهوه</span>
+                                  <i></i>
+                                </a>
+                              </div>
+                              <div class="menu__catalogSubmenu">
+                                <a
+                                  class="menu__catalogSubmenuTitle"
+                                  href="https://mocca.true-emotions.studio/product-category/vending/combo-machines/"
+                                >
+                                  <i>
+                                    <img
+                                      src="../assets/icons/home/toy-machine.svg"
+                                      alt="Combo Machines"
+                                    />
+                                  </i>
+                                  <span>&nbsp ماشین های ترکیبی</span>
+                                  <i></i>
+                                </a>
+                              </div>
+                              <div class="menu__catalogSubmenu">
+                                <a
+                                  class="menu__catalogSubmenuTitle"
+                                  href="https://mocca.true-emotions.studio/product-category/vending/dishes-for-vending/"
+                                >
+                                  <i>
+                                    <img
+                                      src="../assets/icons/home/coffee3.svg"
+                                      alt="Dishes for Vending"
+                                    />
+                                  </i>
+                                  <span>&nbspظروف برای فروش</span>
+                                  <i></i>
+                                </a>
+                              </div>
+                              <div class="menu__catalogSubmenu">
+                                <a
+                                  class="menu__catalogSubmenuTitle"
+                                  href="https://mocca.true-emotions.studio/product-category/vending/milk-and-cream/"
+                                >
+                                  <i>
+                                    <img
+                                      src="../assets/icons/home/glass.svg"
+                                      alt="Milk and Cream"
+                                    />
+                                  </i>
+                                  <span>&nbspشیر و خامه</span>
+                                  <i></i>
+                                </a>
+                              </div>
+                              <div class="menu__catalogSubmenu">
+                                <a
+                                  class="menu__catalogSubmenuTitle"
+                                  href="https://mocca.true-emotions.studio/product-category/vending/vending-machines/"
+                                >
+                                  <i>
+                                    <img
+                                      src="../assets/icons/home/vending-machine4.svg"
+                                      alt="Vending Machines"
+                                    />
+                                  </i>
+                                  <span>&nbsp دستگاه فروش خودکار</span>
+                                  <i></i>
+                                </a>
+                              </div>
+                              <div class="menu__catalogSubmenu">
+                                <a
+                                  class="menu__catalogSubmenuTitle"
+                                  href="https://mocca.true-emotions.studio/product-category/vending/vending-tea/"
+                                >
+                                  <i>
+                                    <img
+                                      src="../assets/icons/home/tea-bag2.svg"
+                                      alt="Vending Tea"
+                                    />
+                                  </i>
+                                  <span>&nbsp فروش چای</span>
+                                  <i></i>
+                                </a>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="menu__catalogItemN2Banner">
+                            <div class="menu__catalogItemN2BannerImg">
+                              <img
+                                src="../assets/images/home/b4.jpg"
+                                alt="Catalog banner"
+                              />
+                            </div>
+                            <div class="menu__catalogItemN2BannerInfo">
+                              دانه قهوه
+                            </div>
+                            <a
+                              class="menu__catalogItemN2BannerLink"
+                              href="https://mocca.true-emotions.studio/product-category/coffee/"
+                            ></a>
+                          </div>
+                        </div>
+                      </li>
+                      <li class="menu__catalogItemN1">
+                        <a
+                          href="https://mocca.true-emotions.studio/product-category/dishes/"
+                        >
+                          <i>
+                            <img
+                              src="../assets/icons/home/coffee3.svg"
+                              alt="Dishes"
+                            />
+                          </i>
+                          <span>ظروف</span>
+                          <span class="material-symbols-outlined">
+                            chevron_left
+                          </span>
+                        </a>
+                      </li>
+                      <li class="menu__catalogItemN2">
+                        <div class="row">
+                          <div class="menu__catalogItemN2Menu">
+                            <div class="menu__catalogItemN2MenuInner">
+                              <div class="menu__catalogSubmenu">
+                                <a
+                                  class="menu__catalogSubmenuTitle"
+                                  href="https://mocca.true-emotions.studio/product-category/dishes/purpose/"
+                                >
+                                  <i>
+                                    <img
+                                      src="../assets/icons/home/iced-coffee.svg"
+                                      alt="Purpose"
+                                    />
+                                  </i>
+                                  <span>&nbsp ظروف</span>
+                                </a>
+                                <ul>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/dishes/purpose/dishes-for-coffee/"
+                                    >
+                                    ظروف برای قهوه
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/dishes/purpose/french-press/"
+                                    >
+                                      فرنچ پرس
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/dishes/purpose/milk-frothers/"
+                                    >
+                                      شیر جوش
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/dishes/purpose/storing-capsules/"
+                                    >
+                                    نگهدارنده کپسول ها
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/dishes/purpose/tea-utensils/"
+                                    >
+                                    ظروف چای
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/dishes/purpose/thermo-%d1%81ups/"
+                                    >
+                                      ماگ‌ها
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+                              <div class="menu__catalogSubmenu">
+                                <a
+                                  class="menu__catalogSubmenuTitle"
+                                  href="https://mocca.true-emotions.studio/product-category/dishes/type/"
+                                >
+                                  <i>
+                                    <img
+                                      src="../assets/icons/home/glass.svg"
+                                      alt="Type"
+                                    />
+                                  </i>
+                                  <span>&nbsp انواع ظروف</span>
+                                </a>
+                                <ul>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/dishes/type/lids-for-glasses/"
+                                    >
+                                    درپوش برای لیوان
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/dishes/type/paper-cup/"
+                                    >
+                                    لیوان کاغذی
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/dishes/type/plastic-cup/"
+                                    >
+                                    لیوان پلاستیکی
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/dishes/type/stirrers-sticks/"
+                                    >
+                                    همزن (چوبی)
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+                              <div class="menu__catalogSubmenu">
+                                <a
+                                  class="menu__catalogSubmenuTitle"
+                                  href="https://mocca.true-emotions.studio/product-category/dishes/material/"
+                                >
+                                  <i>
+                                    <img
+                                      src="../assets/icons/home/leaves.svg"
+                                      alt="Material"
+                                    />
+                                  </i>
+                                  <span>&nbsp جنس ظروف</span>
+                                </a>
+                                <ul>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/dishes/material/bamboo/"
+                                    >
+                                    بامبو
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/dishes/material/craft/"
+                                    >
+                                      دست ساز
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/dishes/material/paper/"
+                                    >
+                                      کاغذی
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/dishes/material/plastic/"
+                                    >
+                                      پلاستیک
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="menu__catalogItemN2Banner">
+                            <div class="menu__catalogItemN2BannerImg">
+                              <img
+                                src="../assets/images/home/b4.jpg"
+                                alt="Catalog banner"
+                              />
+                            </div>
+                            <div class="menu__catalogItemN2BannerInfo">
+                              دانه قهوه
+                            </div>
+                            <a
+                              class="menu__catalogItemN2BannerLink"
+                              href="https://mocca.true-emotions.studio/product-category/coffee/"
+                            ></a>
+                          </div>
+                        </div>
+                      </li>
+                      <li class="menu__catalogItemN1">
+                        <a
+                          href="https://mocca.true-emotions.studio/product-category/tea/"
+                        >
+                          <i>
+                            <img
+                              src="../assets/icons/home/tea-pot.svg"
+                              alt="Tea"
+                            />
+                          </i>
+                          <span>چای</span>
+                          <span class="material-symbols-outlined">
+                            chevron_left
+                          </span>
+                        </a>
+                      </li>
+                      <li class="menu__catalogItemN2">
+                        <div class="row">
+                          <div class="menu__catalogItemN2Menu">
+                            <div class="menu__catalogItemN2MenuInner">
+                              <div class="menu__catalogSubmenu">
+                                <a
+                                  class="menu__catalogSubmenuTitle"
+                                  href="https://mocca.true-emotions.studio/product-category/tea/type-of-tea/"
+                                >
+                                  <i>
+                                    <img
+                                      src="../assets/icons/home/tea-bag3.svg"
+                                      alt="Type of Tea"
+                                    />
+                                  </i>
+                                  <span>&nbsp انواع چای</span>
+                                </a>
+                                <ul>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/tea/type-of-tea/oolong/"
+                                    >
+                                    اولانگ
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/tea/type-of-tea/red-tea/"
+                                    >
+                                      چای قرمز
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/tea/type-of-tea/yellow-tea/"
+                                    >
+                                      چای زرد
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/tea/type-of-tea/black-tea/"
+                                    >
+                                      چای سیاه
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/tea/type-of-tea/fruit-tea/"
+                                    >
+                                      چای میوه
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/tea/type-of-tea/green-tea/"
+                                    >
+                                      چای سبز
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/tea/type-of-tea/herbal-tea/"
+                                    >
+                                      دمنوش
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+                              <div class="menu__catalogSubmenu">
+                                <a
+                                  class="menu__catalogSubmenuTitle"
+                                  href="https://mocca.true-emotions.studio/product-category/tea/package-type/"
+                                >
+                                  <i>
+                                    <img
+                                      src="../assets/icons/home/tea-bag2.svg"
+                                      alt="Package Type"
+                                    />
+                                  </i>
+                                  <span>&nbsp انواع بسته‌بندی</span>
+                                </a>
+                                <ul>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/tea/package-type/cup-bags/"
+                                    >
+                                      کاپ
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/tea/package-type/leaf-tea/"
+                                    >
+                                      چای کیسه‌ای
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/tea/package-type/tea-in-pyramids/"
+                                    >
+                                      چای بسته‌بندی
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      href="https://mocca.true-emotions.studio/product-category/tea/package-type/teapot-bags/"
+                                    >
+                                      چای تی‌بگ
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="menu__catalogItemN2Banner">
+                            <div class="menu__catalogItemN2BannerImg">
+                              <img
+                                src="../assets/images/home/b4.jpg"
+                                alt="Catalog banner"
+                              />
+                            </div>
+                            <div class="menu__catalogItemN2BannerInfo">
+                              دانه قهوه
+                            </div>
+                            <a
+                              class="menu__catalogItemN2BannerLink"
+                              href="https://mocca.true-emotions.studio/product-category/coffee/"
+                            ></a>
+                          </div>
+                        </div>
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+                <ul id="menu-main-menu">
+                  <li
+                    id="menu-item-6646"
+                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-76 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-6646"
+                  >
+                    <a href="../pages/homePage.html" aria-current="page">
+                      خانه
+                    </a>
+                  </li>
+                  <li
+                    id="menu-item-2076"
+                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2076"
+                  >
+                    <a href="https://mocca.true-emotions.studio/about-us/">
+                      درباره ما
+                    </a>
+                  </li>
+                  <li
+                    id="menu-item-6245"
+                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6245"
+                  >
+                    <a href="https://mocca.true-emotions.studio/services/">
+                      خدمات
+                    </a>
+                  </li>
+                  <li
+                    id="menu-item-2213"
+                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2213"
+                  >
+                    <a href="/shop">
+                      فروشگاه &nbsp
+                      <i
+                        class="fa-solid fa-angle-down"
+                        style="font-size: 12px;"
+                      ></i>
+                    </a>
+                    <ul class="sub-menu">
+                      <li
+                        id="menu-item-4961"
+                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4961"
+                      >
+                        <a
+                          href="https://mocca.true-emotions.studio/product/natural-caramel/"
+                        >
+                          گروه کالا
+                        </a>
+                      </li>
+                      <li
+                        id="menu-item-5227"
+                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5227"
+                      >
+                        <a
+                          href="https://mocca.true-emotions.studio/product-category/coffee-machines/"
+                        >
+                        دسته بندی ها
+                        </a>
+                      </li>
+                    </ul>
+                  </li>
+                  <li
+                    id="menu-item-75"
+                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"
+                  >
+                    <a href="https://mocca.true-emotions.studio/blog/" style="margin-left:20px ;">بلاگ</a>
+                  </li>
+                  <li
+                    id="menu-item-308"
+                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-308"
+                  >
+                    <a href="https://mocca.true-emotions.studio/contacts/">
+                      مخاطب
+                    </a>
+                  </li>
+                </ul>
+                <a class="menu__burger" href="#" title="Menu">
+                </a>
+              </nav>
+              <ul class="menu__icons">
+                <li class="pix-search-popup">
+                  <a href="#">
+                    <span class="material-symbols-outlined">
+                      search
+                    </span>
+                  </a>
+                  <div class="menu__search">
+                    <form
+                      role="search"
+                      method="get"
+                      action="https://mocca.true-emotions.studio/"
+                    >
+                      <input
+                        type="search"
+                        placeholder="جستجو کنید"
+                        value=""
+                        name="s"
+                      />
+                      <button type="submit">
+                        <span class="material-symbols-outlined">
+                          search
+                        </span>
+                      </button>
+                    </form>
+                  </div>
+                </li>
+                <li class="menu__iconsLink pix-compare-menu-item">
+                  <a href="#" class="pix-open-compare-btn" title="Compare">
+                    <span class="material-symbols-outlined">
+                      sync
+                    </span>
+                    <span class="badge invisible">0</span>
+                  </a>
+                </li>
+                <li class="menu__iconsLink pix-wishlist-menu-item">
+                  <a
+                    href="https://mocca.true-emotions.studio/wishlist/"
+                    title="Open wishlist page"
+                  >
+                    <span class="material-symbols-outlined">
+                      favorite
+                    </span>
+                    <span class="badge">0</span>
+                  </a>
+                </li>
+                <li class="shoppingCartIcon">
+                  <a href="#" title="View your shopping cart">
+                    <span class="material-symbols-outlined">
+                      shopping_cart
+                    </span>
+                    <span class="badge pix-badge-cart invisible">0</span>
+                  </a>
+                  <div class="menu__cart">
+                    <div class="widget_shopping_cart_content"></div>
+                  </div>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </header>
+

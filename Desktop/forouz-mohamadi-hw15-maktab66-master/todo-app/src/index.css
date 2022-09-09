@@ -1,0 +1,111 @@
+@font-face {
+  font-family: NaskhArabic;
+  src: url(./Noto_Naskh_Arabic/NotoNaskhArabic-VariableFont_wght.ttf) format("ttf");
+
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(241, 245, 234);
+
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+h1{
+		  font-size: 6rem;
+	    text-align: center;
+      height:15vh;
+      line-height: 18vh;
+	    color: #f1f7dd;
+	    background: #b30707;
+	   	font-family: 'Niconne', cursive;
+	    font-weight: 700;
+      text-shadow: 5px 5px 0px #eb452b, 
+                  10px 10px 0px #efa032, 
+                  15px 15px 0px #017e7f, 
+                  20px 20px 0px #052939, 
+                  25px 25px 0px #b30707;
+
+
+}
+
+input{
+  font-family: NaskhArabic,sans-serif;
+  width: 40%;
+  height: 6vh;
+  border: 1px solid #017e7f;
+  border-radius: 10px;
+  padding: 15px;
+  background-color: #017e7f;
+  margin-top: 30px;
+}
+::placeholder {
+  color: rgba(255, 255, 255, 0.788);
+  
+}
+.icon{
+  color: rgba(255, 255, 255, 0.856);
+ 
+}
+.icon:hover{
+  color: #000; 
+  transition: all 0.8s;
+}
+.btnsubmit{
+  background-color: #017e7f;
+  border: 1px solid #017e7f ;
+  border-radius: 10px;
+  width: 32px;
+  height: 32px;
+
+  margin-top:30px ;
+  margin-left:10px ;
+}
+ul{
+  list-style: none;
+}
+
+.List-group-item{
+  font-family: NaskhArabic,sans-serif;
+  background: rgb(248,172,0);
+  background: linear-gradient(142deg, rgba(248,172,0,1) 0%, rgba(255,156,0,1) 48%, rgba(238,125,15,1) 100%);
+  width: 35vw ;
+  height: 6.5vh;
+  border-radius: 10px;
+  padding: 10px;
+ margin-right: 70px;
+ font-weight: bold;
+ color: #052939;
+}
+.trash:hover{
+  color: #f50a0a;
+  transition: all 0.8s;
+
+}
+.edit:hover{
+  color: green;
+  transition: all 0.8s;
+}
+
+.clearAll{
+  background: #eb452b;
+  background: linear-gradient(142deg, #f06d59 0%, #f74c32 48%, #f72302 100%);
+  border:1px solid #eb452b;
+  width: 35vw ;
+  height: 6.5vh;
+  border-radius: 10px;
+ margin-right: 70px;
+ font-weight: bold;
+ color:#fff
+}
